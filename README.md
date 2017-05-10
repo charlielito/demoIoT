@@ -6,7 +6,7 @@
 * Protoboard
 * 2 Resistencias 100 Ohms, 1 resistencia 4.7 kOhms
 * 2 LEDS
-* Boton mecanico
+* Boton mecanico (o capacitivo touch, alguno de los dos)
 * Sensor de temperatura DS18B20
 * Cables tipo Jumpers
 
@@ -23,6 +23,10 @@
 ## Coneccion de los componentes
 Diagrama de coneccion:
 
-## Ejecucion
-Para que funcionen los flujos de Node-RED hay que tener una cuenta en IBM Bluemix y los servicios Speech2Text y VisualRecognition. Completar los flujos con sus respectivas credenciales.
+![alt text][s1]
 
+## Ejecucion
+Para que funcionen los flujos de Node-RED hay que tener una cuenta en IBM Bluemix los servicios Speech2Text y VisualRecognition. Completar los flujos con sus respectivas credenciales.
+
+
+[s1]: https://raw.githubusercontent.com/charlielito/demoIoT/master/Meetup_webinar.png "S"
