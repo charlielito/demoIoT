@@ -31,4 +31,4 @@ Para que funcionen los flujos de Node-RED hay que tener una cuenta en IBM Bluemi
 Link Interfaz WEB en IBM Node-RED: [Link](https://demoiot-meetup.mybluemix.net/ui)
 
 
-[s1]: https://raw.githubusercontent.com/charlielito/demoIoT/master/Meetup_webinar.png "S"
+[s1]: https://raw.githubusercontent.com/charlielito/demoIoT/master/scheme.png "S"
