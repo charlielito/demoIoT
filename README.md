@@ -28,5 +28,7 @@ Diagrama de conección:
 ## Ejecución
 Para que funcionen los flujos de Node-RED hay que tener una cuenta en IBM Bluemix los servicios Speech2Text y VisualRecognition. Completar los flujos con sus respectivas credenciales.
 
+Link Interfaz WEB en IBM Node-RED: [Link](https://demoiot-meetup.mybluemix.net/ui)
+
 
 [s1]: https://raw.githubusercontent.com/charlielito/demoIoT/master/Meetup_webinar.png "S"
