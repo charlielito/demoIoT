@@ -21,7 +21,7 @@
 * fswebcam (instalar con apt-get install)
 
 ## Conexión de los componentes
-Diagrama de conección:
+Diagrama de conexión:
 
 ![alt text][s1]
 
