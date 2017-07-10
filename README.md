@@ -20,7 +20,7 @@
     * node-red-contrib-ds18b20
 * fswebcam (instalar con apt-get install)
 
-## Conección de los componentes
+## Conexión de los componentes
 Diagrama de conección:
 
 ![alt text][s1]
